@@ -1,4 +1,5 @@
-# G-softmax-DDG
+# G-softmax-DDG [![DOI](https://zenodo.org/badge/949723818.svg)](https://doi.org/10.5281/zenodo.16757337)
+
 Cross-Subject G-softmax Deep Domain Generalization Motor Imagery Classification in Brain–Computer Interfaces
 
 ## Abstract
@@ -14,6 +15,10 @@ Cross-Subject G-softmax Deep Domain Generalization Motor Imagery Classification 
   <img width="554" height="902" alt="image" src="https://github.com/user-attachments/assets/57efe967-74df-4200-bed7-95d86cf47cd4" />
 </p>
 
+## Links to Datasets:
+[BNCI2014-1/4](http://bnci-horizon-2020.eu/database/data-sets)
+
+[Lee2019-MI](http://gigadb.org/dataset/100542)
 
 ## Citation
 ```bibtex
@@ -23,7 +28,7 @@ Cross-Subject G-softmax Deep Domain Generalization Motor Imagery Classification 
   journal   = {Unpublished},
   year      = {2025},
   note      = {Submitted to PeerJ CS on March,23rd,2025},
-  url       = {http://your-paper-url.com/optional},
+  url       = {https://doi.org/10.5281/zenodo.16757337},
   archivePrefix = {xxxx},
   eprint    = {xxxxxx},
 }
